@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "0.0.0",
+  "homepage": "https://github.com/alymarev/express-tut",
+  "authors": [
+    "itrager <itrager@mail.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
